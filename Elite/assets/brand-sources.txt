@@ -1,0 +1,7 @@
+Brand vector sources: Simple Icons (CC0-1.0).
+https://github.com/simple-icons/simple-icons
+Discord: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg
+TikTok: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg
+X: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg
+Brand names and marks belong to their respective owners.
+Quantix artwork was supplied by the app owner.
